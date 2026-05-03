@@ -1,0 +1,4 @@
+com\paf\issuetracker\service\AuthServiceTest.class
+com\paf\issuetracker\service\ProjectServiceTest.class
+com\paf\issuetracker\service\IssueServiceTest.class
+com\paf\issuetracker\controller\AuthControllerIntegrationTest.class
