@@ -1,5 +1,5 @@
 # TrackIt — Issue Tracking System
-### PAF-IAST Final Project · BS Computer Science
+### PAF-IAST Final Project · BS Software Engineering
 
 A full-stack Jira-like issue tracking system with role-based access control, JWT authentication, and a modern React frontend.
 
@@ -109,10 +109,9 @@ npm run dev
 ```
 
 ### Run Tests
-```bash
 cd backend
 mvn test
-```
+
 
 ---
 
